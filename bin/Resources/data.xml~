@@ -1,0 +1,73 @@
+<Basket cashiername = "cashier2" total = "20000.0" VAT = "42.0" netamount = "19139.0" bonuspoint = "4000" BasketID = "8" timeOfPurchase = "17-07-2020 01:20:14" addressOfStore = "Tehran, Azadi avenue, 12th street" >
+<Item name = "Tea Bag" 
+finalprice = "5000.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+/>
+<Item name = "Tea Bag" 
+finalprice = "5000.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+/>
+<Item name = "Tea Bag" 
+finalprice = "5000.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+/>
+<Item name = "Tea Bag" 
+finalprice = "5000.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+/>
+</Basket>
+<Basket cashiername = "cashier1" total = "1000.0" VAT = "1.0" netamount = "118.0" bonuspoint = "200" BasketID = "7" timeOfPurchase = "14-07-2020 08:10:53" addressOfStore = "Tehran, Azadi avenue, 12th street" >
+<Item name = "Water" finalprice = "1000.0" ItemID = "0" Type = "ItemWithDiscount" />
+</Basket>
+<Basket cashiername = "cashier2" total = "1200.0" VAT = "1.0" netamount = "342.0" bonuspoint = "240" BasketID = "6" timeOfPurchase = "14-07-2020 08:07:57" addressOfStore = "Tehran, Azadi avenue, 12th street" >
+<Item name = "Water" finalprice = "1200.0" ItemID = "0" Type = "ItemWithDiscount" />
+</Basket>
+<Basket cashiername = "cashier1" total = "10.0" VAT = "1.0" netamount = "0.0" bonuspoint = "2" BasketID = "5" timeOfPurchase = "14-07-2020 06:14:03" addressOfStore = "Tehran, Azadi avenue, 12th street" >
+<Item name = "Bag" finalprice = "10.0" ItemID = "6" Type = "DiscountIndependence" />
+</Basket>
+<Basket cashiername = "cashier1" total = "10.0" VAT = "1.0" netamount = "0.0" bonuspoint = "2" BasketID = "4" timeOfPurchase = "14-07-2020 06:12:50" addressOfStore = "Tehran, Azadi avenue, 12th street" >
+<Item name = "Bag" finalprice = "10.0" ItemID = "6" Type = "DiscountIndependence" />
+</Basket>
+<Basket cashiername = "cashier1" total = "1524.0" VAT = "1.0" netamount = "544.6" bonuspoint = "304" BasketID = "3" timeOfPurchase = "14-07-2020 05:02:03" addressOfStore = "Tehran, Azadi avenue, 12th street" >
+<Item name = "Sussage" finalprice = "6.0" ItemID = "10" Type = "BuyMorePayLess" />
+<Item name = "Sussage" finalprice = "6.0" ItemID = "10" Type = "BuyMorePayLess" />
+<Item name = "Sussage" finalprice = "6.0" ItemID = "10" Type = "BuyMorePayLess" />
+<Item name = "Sussage" finalprice = "6.0" ItemID = "10" Type = "BuyMorePayLess" />
+<Item name = "Biscuit" finalprice = "1500.0" ItemID = "3" Type = "ItemWithDiscount" />
+</Basket>
+<Basket cashiername = "cashier1" total = "27.5" VAT = "1.0" netamount = "0.0" bonuspoint = "5" BasketID = "2" timeOfPurchase = "14-07-2020 05:01:28" addressOfStore = "Tehran, Azadi avenue, 12th street" >
+<Item name = "Egg" finalprice = "15.0" ItemID = "5" Type = "ItemWithDiscount" />
+<Item name = "Egg" finalprice = "12.5" ItemID = "5" Type = "ItemWithDiscount" />
+</Basket>
+<Basket cashiername = "cashier1" total = "41400.0" VAT = "1.0" netamount = "37261.0" bonuspoint = "8280" BasketID = "1" timeOfPurchase = "14-07-2020 05:01:02" addressOfStore = "Tehran, Azadi avenue, 12th street" >
+<Item name = "Water" finalprice = "800.0" ItemID = "0" Type = "ItemWithDiscount" />
+<Item name = "Water" finalprice = "600.0" ItemID = "0" Type = "ItemWithDiscount" />
+<Item name = "Tea Bag" finalprice = "13333.334" ItemID = "1" Type = "BuyMorePayLess" />
+<Item name = "Tea Bag" finalprice = "13333.334" ItemID = "1" Type = "BuyMorePayLess" />
+<Item name = "Tea Bag" finalprice = "13333.334" ItemID = "1" Type = "BuyMorePayLess" />
+</Basket>
+
+</Baskets>
+</User>
+
+</Users>
+<Stocks>
+<Item type = "discount" ID = "0" name = "Water" price = "2000" />
+<Item type = "BMPL" ID = "1" name = "Tea Bag" price = "10000" />
+<Item type = "ITIA" ID = "2" name = "Shampoo" price = "12000" />
+<Item type = "discount" ID = "3" name = "Biscuit" price = "3000" />
+<Item type = "BMPL" ID = "4" name = "Bread" price = "20" />
+<Item type = "discountIndependence" ID = "5" name = "Egg" price = "25" />
+<Item type = "discountIndependence" ID = "6" name = "Bag" price = "40.0" />
+<Item type = "discountIndependence" ID = "7" name = "Fiction Book" price = "11.5" />
+<Item type = "discount" ID = "8" name = "Doll" price = "7.0" />
+<Item type = "discountIndependence" ID = "9" name = "NoteBook" price = "3.0" />
+<Item type = "BMPL" ID = "10" name = "Sussage" price = "6.0" />
+<Item type = "ITIA" ID = "11" name = "Oil" price = "5.0" />
+<Item type = "discount" ID = "12" name = "Pasta" price = "4.25" />
+
+</Stocks>

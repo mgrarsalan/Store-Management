@@ -1,0 +1,15 @@
+﻿<?xml version = "1.0"?>
+<Users>
+<User type = "manager" username = "admin" ID = "0" name = "Arsalan" surname = "mgr" address = "Iran" phone = "8034601" password = "admin" pin = "2" internalPhoneNumber = "1" ></User>
+<User type = "cashier" username = "cashier1" ID = "1" name = "Reza" surname = "Pahlevani" address = "Tehran, Azadi Street" phone = "10048304" password = "cashier1" internalPhoneNumber = "2" baseSalary = "45.2" hoursOfWork = "7">
+</User>
+<User type = "Customer" username = "test" ID = "6" name = "Mr.test"  password = "test" address = "test street" name = "Mr.Test" phone = "1234" >
+</User>
+
+</Users>
+<Stocks>
+<Item type = "discount" ID = "0" name = "آب معدنی" price = "2000" discount = "0.2" />
+<Item type = "BMPL" ID = "1" name = "چای کیسه ای" price = "10000" buyCondition = "2" payBonus = "1" />
+<Item type = "ITIA" ID = "2" name = "شامپو" price = "12000" N = "32" />
+<Item type = "discount" ID = "3" name = "بیسکوییت" price = "3000" discount = "0.3" />
+</Stocks>

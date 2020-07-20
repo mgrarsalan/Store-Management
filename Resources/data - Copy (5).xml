@@ -1,0 +1,44 @@
+﻿<?xml version = "1.0"?>
+<Users>
+<User type = "Manager" username = "admin" ID = "0" name = "Arsalan" surname = "mgr" address = "Iran" phone = "8034601" password = "admin" pin = "2" internalPhoneNumber = "1" ></User>
+<User type = "Cashier" username = "cashier1" ID = "1" name = "Reza" surname = "Pahlevani" address = "Tehran, Azadi Street" phone = "10048304" password = "cashier1" internalPhoneNumber = "2" baseSalary = "45.2" hoursOfWork = "10.583332" >                          
+</User>
+
+<User type = "LoyalCustomer" username = "test" ID = "6" name = "Mr.test"  password = "test" address = "test street" name = "Mr.Test" phone = "1234" >
+<Baskets><Basket cashiername = "cashier1" total = "1203.5" netamount = "668.5" bonuspoint = "240" BasketID = "4" >
+<Item name = "Water" finalprice = "1200.0" ItemID = "0" Type = "ItemWithDiscount" />
+<Item name = "Doll" finalprice = "3.5" ItemID = "8" Type = "ItemWithDiscount" />
+</Basket>
+<Basket cashiername = "cashier1" total = "13000.0" netamount = "12725.0" bonuspoint = "2600" BasketID = "3" >
+<Item name = "Water" finalprice = "1000.0" ItemID = "0" Type = "ItemWithDiscount" />
+<Item name = "Shampoo" finalprice = "12000.0" ItemID = "2" Type = "ItemTakeItAll" />
+</Basket>
+<Basket cashiername = "cashier1" total = "11200.0" netamount = "11149.0" bonuspoint = "2240" BasketID = "2" >
+<Item name = "Water" finalprice = "1200.0" ItemID = "0" Type = "ItemWithDiscount" />
+<Item name = "Tea Bag" finalprice = "10000.0" ItemID = "0" Type = "BuyMorePayLess" />
+</Basket>
+<Basket cashiername = "cashier1" total = "2600.0" netamount = "2601.0" bonuspoint = "520" BasketID = "1" >
+<Item name = "Water" finalprice = "1200.0" ItemID = "0" Type = "ItemWithDiscount" />
+<Item name = "Water" finalprice = "1400.0" ItemID = "0" Type = "ItemWithDiscount" />
+</Basket>
+
+
+</Baskets>
+</User>
+
+</Users>
+<Stocks>
+<Item type = "discount" ID = "0" name = "Water" price = "2000" />
+<Item type = "BMPL" ID = "1" name = "Tea Bag" price = "10000" />
+<Item type = "ITIA" ID = "2" name = "Shampoo" price = "12000" />
+<Item type = "discount" ID = "3" name = "Biscuit" price = "3000" />
+<Item type = "BMPL" ID = "4" name = "Bread" price = "20" />
+<Item type = "discountIndependence" ID = "5" name = "Egg" price = "25" />
+<Item type = "discountIndependence" ID = "6" name = "Bag" price = "40.0" />
+<Item type = "discountIndependence" ID = "7" name = "Fiction Book" price = "11.5" />
+<Item type = "discount" ID = "8" name = "Doll" price = "7.0" />
+<Item type = "discountIndependence" ID = "9" name = "NoteBook" price = "3.0" />
+<Item type = "BMPL" ID = "10" name = "Sussage" price = "6.0" />
+<Item type = "ITIA" ID = "11" name = "Oil" price = "5.0" />
+
+</Stocks>

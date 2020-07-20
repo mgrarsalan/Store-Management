@@ -1,0 +1,196 @@
+Customer = "test
+"Name of the cashier = "cashier1
+"ID = "1
+"Total Amount = "41400.0
+"VAT = "1.0
+"Net Amount = "37261.0
+"Address of the store = "Tehran, Azadi avenue, 12th street
+"Bonus Point = "8280
+"Time of purchase = "14-07-2020 05:01:02
+"List of Items:
+name = "Water" 
+finalprice = "2000.0" 
+ItemID = "0" 
+Type = "ItemWithDiscount" 
+
+name = "Water" 
+finalprice = "2000.0" 
+ItemID = "0" 
+Type = "ItemWithDiscount" 
+
+name = "Tea Bag" 
+finalprice = "0.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+
+name = "Tea Bag" 
+finalprice = "0.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+
+name = "Tea Bag" 
+finalprice = "0.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+
+
+
+Customer = "test
+"Name of the cashier = "cashier1
+"ID = "2
+"Total Amount = "27.5
+"VAT = "1.0
+"Net Amount = "0.0
+"Address of the store = "Tehran, Azadi avenue, 12th street
+"Bonus Point = "5
+"Time of purchase = "14-07-2020 05:01:28
+"List of Items:
+name = "Egg" 
+finalprice = "25.0" 
+ItemID = "5" 
+Type = "ItemWithDiscount" 
+
+name = "Egg" 
+finalprice = "25.0" 
+ItemID = "5" 
+Type = "ItemWithDiscount" 
+
+
+
+Customer = "test
+"Name of the cashier = "cashier1
+"ID = "3
+"Total Amount = "1524.0
+"VAT = "1.0
+"Net Amount = "544.6
+"Address of the store = "Tehran, Azadi avenue, 12th street
+"Bonus Point = "304
+"Time of purchase = "14-07-2020 05:02:03
+"List of Items:
+name = "Sussage" 
+finalprice = "0.0" 
+ItemID = "10" 
+Type = "BuyMorePayLess" 
+
+name = "Sussage" 
+finalprice = "0.0" 
+ItemID = "10" 
+Type = "BuyMorePayLess" 
+
+name = "Sussage" 
+finalprice = "0.0" 
+ItemID = "10" 
+Type = "BuyMorePayLess" 
+
+name = "Sussage" 
+finalprice = "0.0" 
+ItemID = "10" 
+Type = "BuyMorePayLess" 
+
+name = "Biscuit" 
+finalprice = "3000.0" 
+ItemID = "3" 
+Type = "ItemWithDiscount" 
+
+
+
+Customer = "test
+"Name of the cashier = "cashier1
+"ID = "4
+"Total Amount = "10.0
+"VAT = "1.0
+"Net Amount = "0.0
+"Address of the store = "Tehran, Azadi avenue, 12th street
+"Bonus Point = "2
+"Time of purchase = "14-07-2020 06:12:50
+"List of Items:
+name = "Bag" 
+finalprice = "40.0" 
+ItemID = "6" 
+Type = "DiscountIndependence" 
+
+
+
+Customer = "test
+"Name of the cashier = "cashier1
+"ID = "5
+"Total Amount = "10.0
+"VAT = "1.0
+"Net Amount = "0.0
+"Address of the store = "Tehran, Azadi avenue, 12th street
+"Bonus Point = "2
+"Time of purchase = "14-07-2020 06:14:03
+"List of Items:
+name = "Bag" 
+finalprice = "40.0" 
+ItemID = "6" 
+Type = "DiscountIndependence" 
+
+
+
+Customer = "test
+"Name of the cashier = "cashier2
+"ID = "6
+"Total Amount = "1200.0
+"VAT = "1.0
+"Net Amount = "342.0
+"Address of the store = "Tehran, Azadi avenue, 12th street
+"Bonus Point = "240
+"Time of purchase = "14-07-2020 08:07:57
+"List of Items:
+name = "Water" 
+finalprice = "2000.0" 
+ItemID = "0" 
+Type = "ItemWithDiscount" 
+
+
+
+Customer = "test
+"Name of the cashier = "cashier1
+"ID = "7
+"Total Amount = "1000.0
+"VAT = "1.0
+"Net Amount = "118.0
+"Address of the store = "Tehran, Azadi avenue, 12th street
+"Bonus Point = "200
+"Time of purchase = "14-07-2020 08:10:53
+"List of Items:
+name = "Water" 
+finalprice = "2000.0" 
+ItemID = "0" 
+Type = "ItemWithDiscount" 
+
+
+
+Customer = "test
+"Name of the cashier = "cashier2
+"ID = "8
+"Total Amount = "20000.0
+"VAT = "42.0
+"Net Amount = "19139.0
+"Address of the store = "Tehran, Azadi avenue, 12th street
+"Bonus Point = "4000
+"Time of purchase = "17-07-2020 01:20:14
+"List of Items:
+name = "Tea Bag" 
+finalprice = "0.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+
+name = "Tea Bag" 
+finalprice = "0.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+
+name = "Tea Bag" 
+finalprice = "0.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+
+name = "Tea Bag" 
+finalprice = "0.0" 
+ItemID = "1" 
+Type = "BuyMorePayLess" 
+
+
+
